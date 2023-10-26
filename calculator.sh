@@ -5,4 +5,6 @@
 x = 1 + 2
 
 #subtraction function
-x = 5 -3 
+x = 5 -3
+
+#division 
