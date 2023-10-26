@@ -7,4 +7,6 @@ x = 1 + 2
 #subtraction function
 x = 5 -3
 
-#division 
+#division
+
+#Multiplication 
